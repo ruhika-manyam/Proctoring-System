@@ -1,4 +1,4 @@
-# 👁️ Proctoring System using YOLOv5 Object Detection
+# Proctoring System using YOLOv5 Object Detection
 
 This project is a simple AI-powered proctoring system that uses object detection with **YOLOv5** to identify and label objects in images. It simulates how computer vision can be used for monitoring purposes in exam proctoring systems. The project processes static images and draws bounding boxes with class labels on detected objects.
 
@@ -23,9 +23,6 @@ This project is a simple AI-powered proctoring system that uses object detection
 - NumPy
 
 ---
-
----
-
 ## ⚙️ Dependencies
 
 Install the following Python libraries before running the project:
